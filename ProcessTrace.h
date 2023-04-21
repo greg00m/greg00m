@@ -49,11 +49,6 @@
  *  55 a5 9a 9b 9c ba fa f0
  */
 
-/* 
- * File:   ProcessTrace.h
- * Author: Mike Goss <mikegoss@cs.du.edu>
- *
- */
 
 #ifndef PROCESSTRACE_H
 #define PROCESSTRACE_H
