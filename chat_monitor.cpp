@@ -1,6 +1,4 @@
-//
-// Created by Nathan Evans on 4/10/18.
-//
+
 #include <iostream>
 #include <sys/socket.h>
 #include <errno.h>
