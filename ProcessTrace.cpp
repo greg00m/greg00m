@@ -1,12 +1,3 @@
-/*
- * ProcessTrace implementation 
- */
-
-/* 
- * File:   ProcessTrace.cpp
- * Author: Mike Goss <mikegoss@cs.du.edu>
- * 
- */
 
 #include "ProcessTrace.h"
 
