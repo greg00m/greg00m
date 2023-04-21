@@ -1,6 +1,3 @@
-//
-// Created by nate on 5/14/18.
-//
 
 #include "TCPClient.h"
 #include <errno.h>
