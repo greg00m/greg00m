@@ -1,9 +1,3 @@
-/* 
- * File:   MemAllocatorTest
- * Author: mikegoss
- *
- * Created on Oct 28, 2017, 6:12:10 PM
- */
 
 #include <gtest/gtest.h>
 
